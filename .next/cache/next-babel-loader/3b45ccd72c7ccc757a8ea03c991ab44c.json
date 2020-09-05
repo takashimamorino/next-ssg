@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nconst HomePage = () => __jsx(\"h2\", null, \" Hello World \");\n\nexport const getStaticProps = async () => {\n  return {\n    props: {}\n  };\n};\nexport default HomePage;","map":null,"metadata":{},"sourceType":"module"}
